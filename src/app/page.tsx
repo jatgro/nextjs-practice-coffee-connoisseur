@@ -90,6 +90,7 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <footer><p>This is a footer</p></footer>
     </main>
   );
 }
